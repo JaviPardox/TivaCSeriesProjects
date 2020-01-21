@@ -1,5 +1,5 @@
 // init.c
-// this lab creates a position measurment software that outputs the result on LCD
+// this file creates a position measurment software that outputs the result on LCD
 // The software samples analog input signal and use calibration to output the position
 // Runs on LM4F120 or TM4C123
 // Use the SysTick timer to request interrupts at a particular period.
